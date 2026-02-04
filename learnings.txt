@@ -1,0 +1,5 @@
+GIT PRACTICAL LEARNINGS SUMMARY
+1. Setup: git --version, git config --global user.name/email
+2. Starting: git init (creates hidden .git brain)
+3. Working: git status (check), git add (stage), git commit (save)
+4. Time Machine: git log (history), git diff (changes), git restore (undo), git checkout (travel)
