@@ -1,0 +1,9 @@
+# Ignore temporary Office files
+~$*
+
+# Ignore IDE settings (JetBrains/PyCharm)
+.idea/
+
+# Ignore Python compiled files (for later)
+__pycache__/
+*.pyc
